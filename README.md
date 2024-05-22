@@ -115,7 +115,7 @@ model requirements.
 
 ## Insights from Graphical Representations
 
-![image](https://github.com/parthghumare/Deep-Narrow-versus-Shallow-Wide-Neural-Network-Model-Performance/assets/69133964/96cda9d0-6b63-423d-b69d-9531b656f303)
+![image](https://github.com/parthghumare/Deep-Narrow-versus-Shallow-Wide-Neural-Network-Model-Performance/blob/main/Insightsfromgraphs.png)
 
 • We tested the performance of both types of neural network on two different datasets. One application was image recognition, and the other was NLP. In both the cases we saw that the deep and narrow model out-performed the shallow and wide model, despite having slightly a smaller number of parameters. This gives us an idea of how more layers in a neural network helps us better recognize the patterns in data and thus, has better generalization. On the other hand, more nodes and smaller number of layers lag in generalizing.
 
